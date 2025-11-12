@@ -19,7 +19,8 @@ cin >> q;
 while(q -- ) {
     char c;
     cin >> c;
-    // fetch
+    // fetch 
+    cout << hash [c -z:'a'] <<< endl ;
 }
 return 0;
 }

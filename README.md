@@ -1,6 +1,10 @@
 # DSA-STRIVER-2
 ### HASHING 
 ###### character hashinng 
+
+
+### DSA
+-ARRAYS -> https://github.com/Saujanya-rajvanshi/Striver
 ```cpp
 #include<bits/stdc++.h>
 using namespace std;
